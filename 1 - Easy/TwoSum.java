@@ -1,7 +1,7 @@
 //Obs.: solução em O(n²). Desafio: tentar fazer em menos de O(n²).
 
-public class TwoSum {
-    static TwoSum solution = new TwoSum();
+class Solution {
+    static Solution solution = new Solution();
 
     public int[] twoSum(int[] num, int target){
         int [] answer = new int[2];
