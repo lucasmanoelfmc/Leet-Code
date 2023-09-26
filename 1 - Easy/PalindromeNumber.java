@@ -1,9 +1,10 @@
-//Obs.: solução envolve converter inteiro para String. 
-//Desafio: resolver sem usar String. 
+//  9. Palindrome Number
+//  Obs.: solução envolve converter inteiro para String. 
+//  Desafio: resolver sem usar String. 
 
-class Solution {
+class PalindromeNumber {
 
-    static Solution solution = new Solution();
+    static PalindromeNumber solution = new PalindromeNumber();
 
     public boolean isPalindrome(int x) {
         if(Integer.toString(x).equals(solution.reverseString(Integer.toString(x)))){
