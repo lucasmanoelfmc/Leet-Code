@@ -1,6 +1,7 @@
 //  9. Palindrome Number
 //  Obs.: solução envolve converter inteiro para String. 
 //  Desafio: resolver sem usar String. 
+package lc1_easy;
 
 class PalindromeNumber {
 

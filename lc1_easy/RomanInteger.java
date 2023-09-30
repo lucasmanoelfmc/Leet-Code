@@ -3,8 +3,9 @@
 //  constraint 2: s contains only the characters I, V, X, L, C, D and M
 //  constraint 3: s is in range [1, 3999]
 //  constraint 4: 1 <= s.length <= 15
+package lc1_easy;
 
-class Solution {
+class RomanInteger {
     public static int romanToInt(String s) {
         int integer = 0;
         int i = 0;

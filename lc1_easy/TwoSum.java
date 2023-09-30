@@ -1,5 +1,6 @@
 //  1. Two Sum
 //  Obs.: solução em O(n²). Desafio: tentar fazer em menos de O(n²).
+package lc1_easy;
 
 class TwoSum {
     static TwoSum solution = new TwoSum();
