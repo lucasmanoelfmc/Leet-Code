@@ -1,5 +1,4 @@
 //  189. Rotate Array
-
 package lc2_medium;
 
 class RotateArray {
@@ -27,7 +26,7 @@ class RotateArray {
         }
         
     }
-        
+
     public static void main(String[] args) {
 
         int[] arr4 = {1, 2, 3, 4, 5};
